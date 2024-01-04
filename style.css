@@ -1,0 +1,66 @@
+body {
+  min-height: 300px;
+  width: 400px;
+
+  
+}
+
+.more-btn{
+
+  height: 20px;
+  
+}
+#addNoteBtn{
+height: 30px;
+
+}
+.top{
+
+  padding: 18px 18px 0px 0px;
+  display: flex;
+
+justify-content: end;
+
+}
+
+.notes-list {
+  
+  padding: 0;
+}
+
+.notes-list li {
+
+
+  display: flex;
+
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.notes-list li:hover {
+  background-color: #f0f0f0;
+}
+
+.notes-list li .note-content {
+
+  text-align: left;
+}
+
+
+
+.notes-list li.show-actions .note-actions {
+  display: flex;
+
+  flex-direction: column;
+}
+
+
+.note-actions button {
+  margin-left: 5px;
+  height: 20px;
+  margin: 3px 0px 3px 0px;
+}
+
+
