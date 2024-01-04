@@ -1,0 +1,1 @@
+The Sticky Notes Chrome Extension is a simple yet versatile tool designed to help users organize and manage notes within the Chrome browser. This extension enables users to create, edit, and organize multiple notes conveniently.
